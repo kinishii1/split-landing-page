@@ -8,4 +8,4 @@ The PlayStation vs. Xbox Comparison Website offers a side-by-side view, allowing
 
 ## Demo
 
-You can experience the live demo of this website by visiting [here](#insert-your-demo-url).
+You can experience the live demo of this website by visiting [here](https://kinishii1.github.io/split-landing-page/).
